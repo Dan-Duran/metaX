@@ -13,7 +13,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Dan-Duran/metaX.git
+   git clone [https://github.com/Dan-Duran/metaX.git](https://github.com/Dan-Duran/metaX.git)
    cd metaX
    ```
 
