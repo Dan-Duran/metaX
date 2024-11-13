@@ -2,6 +2,10 @@
 
 `metaX` is a Python tool designed to extract metadata (including EXIF data) from image files such as PNG, JPG, and JPEG. The tool can display basic image information (format, size, mode) and extract detailed EXIF metadata including GPS coordinates, camera model, exposure settings, and more.
 
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 ## Features
 
 - Extract basic metadata (format, size, mode) of the image
